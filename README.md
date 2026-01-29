@@ -1,23 +1,25 @@
-# Expense_Tracker
 
-## Description
-This project is a simple Python-based application created for learning and practice purposes.
+---
+
+# 💰 Expense-Tracker
+
+```md
+# Expense Tracker 💰
+
+A Python based expense tracker to manage daily spending.
 
 ## Features
-- Easy to run
+- Add expenses
+- View total spending
+- Simple interface
 - Beginner friendly
-- Console based
-
-## Requirements
-- Python 3.x
 
 ## How to Run
+
 ```bash
-python main.py
-```
+python Expense_Tracker.py
 
-
-## Author
+Author:
 Dhruv
 
 ## License
